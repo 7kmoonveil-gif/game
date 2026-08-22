@@ -1,0 +1,6 @@
+{
+  "name": "Super Emoji Platformer B2",
+  "description": "เกม 2D Platformer สไตล์มาริโอแบบสโลว์โมชั่น ผจญภัย 3 ฤดูกาล พร้อมควิซภาษาอังกฤษ CEFR B2 และระบบ Leaderboard เชื่อมต่อ Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
